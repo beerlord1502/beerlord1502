@@ -14,12 +14,11 @@ I do system administration and DevOps engineering. I am not driven by anything a
 
  _virtualization && containerization_:
  >![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
- >![QEMU](https://img.shields.io/badge/QEMU-Emulator-FF6600?style=for-the-badge&logoColor=white)
- >![KVM](https://img.shields.io/badge/KVM-Virtualization-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+ >![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
  _monitoring_:
-  >![Sysstat](https://img.shields.io/badge/Sysstat-Monitoring-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white)
+  >![Sysstat](https://img.shields.io/badge/Sysstat-Utilities-0078D6?style=for-the-badge&logo=gnometerminal&logoColor=white)
   >![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
   >![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
